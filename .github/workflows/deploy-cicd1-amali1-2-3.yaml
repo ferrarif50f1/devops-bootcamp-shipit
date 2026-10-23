@@ -1,4 +1,4 @@
-name: deploy
+name: deploy-cicd1-amali1-amali2-amali3
 on: [push, workflow_dispatch]
 jobs:
   say-hello:
